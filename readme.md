@@ -13,6 +13,8 @@ Isidro Martínez
 
 Proyecto SICEE correspondiente a 12v0 cuatrimeste.
 
+![](https://i.ibb.co/Sm1CYrf/SICEE-login.png)
+
 ## Installation
 
 Clone the repo locally:
